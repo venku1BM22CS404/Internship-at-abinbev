@@ -1,0 +1,7 @@
+data_filepath = "./Input_Data/04. April 2025/10_04_2025/2025_04_10_13_03_07 input data/" 
+static_filepath = "./Static_data/" 
+preprocessed_path = "./PRE_PROCESSED_DATA/04. April 2025/10_04_2025 preprocessed data/2025_04_10_13_03_07 preprocessed data/" 
+result_path = "./RESULTS/04. April 2025/10_04_2025 results/2025_04_10_" 
+run_date = "2025-04-10 00:00:00" 
+run_time_naive = "2025-04-10 13:03:07" 
+run_time = "2025-04-10 13:03:07" 
